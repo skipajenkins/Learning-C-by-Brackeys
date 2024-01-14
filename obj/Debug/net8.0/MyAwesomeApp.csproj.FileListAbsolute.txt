@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\MyAwesomeApp\bin\Debug\net8.0\MyAwesomeApp.exe
+C:\Users\PC\Desktop\MyAwesomeApp\bin\Debug\net8.0\MyAwesomeApp.deps.json
+C:\Users\PC\Desktop\MyAwesomeApp\bin\Debug\net8.0\MyAwesomeApp.runtimeconfig.json
+C:\Users\PC\Desktop\MyAwesomeApp\bin\Debug\net8.0\MyAwesomeApp.dll
+C:\Users\PC\Desktop\MyAwesomeApp\bin\Debug\net8.0\MyAwesomeApp.pdb
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.dll
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\refint\MyAwesomeApp.dll
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.pdb
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\MyAwesomeApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\MyAwesomeApp\obj\Debug\net8.0\ref\MyAwesomeApp.dll
